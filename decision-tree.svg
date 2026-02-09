@@ -11,7 +11,7 @@
    inkscape:export-filename="decision-tree_1.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -356,13 +356,13 @@
    inkscape:deskcolor="#d1d1d1"
    inkscape:zoom="0.66646846"
    inkscape:cx="1042.0598"
-   inkscape:cy="400.61911"
-   inkscape:window-width="1901"
-   inkscape:window-height="1041"
+   inkscape:cy="401.36933"
+   inkscape:window-width="2384"
+   inkscape:window-height="1310"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="1"
-   inkscape:current-layer="g117" />
+   inkscape:current-layer="svg117" />
     <g
    transform="matrix(1,0,0,1,-3861,-1142)"
    id="g117">
@@ -774,7 +774,7 @@
      style="font-size:72px;font-family:ArialMT, Arial, sans-serif"
      id="text73">X1</text></g><g
    id="g2"
-   style="display:none"><text
+   style="display:inline"><text
      x="5111.2803"
      y="1270.4734"
      style="font-size:48px;font-family:ArialMT, Arial, sans-serif;fill:#ff8767"
@@ -827,7 +827,7 @@
      style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#6a6a6a;stroke-width:6.4px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:6.4, 6.4"
      id="path70" /></g><g
    id="g3"
-   style="display:none"><text
+   style="display:inline"><text
      x="5117.6133"
      y="1704.9004"
      style="font-size:48px;font-family:ArialMT, Arial, sans-serif;fill:#ff8767"
@@ -872,7 +872,7 @@
      style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#6a6a6a;stroke-width:6.4px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:6.4, 6.4"
      id="path71" /></g><g
    id="g4"
-   style="display:none"
+   style="display:inline"
    inkscape:export-filename="decision-tree_3.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"><text

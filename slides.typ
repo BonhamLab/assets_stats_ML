@@ -14,7 +14,7 @@
     #text(11pt)[Woodruff and Bonham, _et. al._, _Sci. Adv._ (2023)]
 ][
     #figure(
-        image("../figures/pasc-fig1.png", width: 80%)
+        image("assets/stats_ML/pasc-fig1.png", width: 80%)
     )
 ]
 ]
@@ -22,7 +22,7 @@
 #let pasc_results_slides = [
 #slide[
     #figure(
-        image("../figures/pasc-fig2.png", width: 90%)
+        image("assets/stats_ML/pasc-fig2.png", width: 90%)
     )
     #text(11pt)[Woodruff and Bonham, _et. al._, _Sci. Adv._ (2023)]
 ]
@@ -30,9 +30,10 @@
 #slide[
     #v(2em)
     #figure(
-        image("../figures/pasc-fig3.png")
+        image("assets/stats_ML/pasc-fig3.png")
     )
     #text(11pt)[Woodruff and Bonham, _et. al._, _Sci. Adv._ (2023)]
+    
 ]
 ]
 
@@ -41,7 +42,7 @@
 
 #slide[
     #figure(
-        image("../figures/pasc-fig2.png", width: 90%)
+        image("assets/stats_ML/pasc-fig2.png", width: 90%)
     )
     #text(11pt)[Woodruff and Bonham, _et. al._, _Sci. Adv._ (2023)]
 ]
@@ -55,9 +56,9 @@
     #figure(
     cetz-canvas({
     import cetz.draw: *
-    content((0, 0), [#image("../figures/frequentists_vs_bayesians1.png", width: 321pt)])
+    content((0, 0), [#image("assets/stats_ML/frequentists_vs_bayesians1.png", width: 321pt)])
     (pause,)
-    content((0, 0), [#image("../figures/frequentists_vs_bayesians2.png", width: 434pt)])
+    content((0, 0), [#image("assets/stats_ML/frequentists_vs_bayesians2.png", width: 434pt)])
     }))
 ]
 ]
