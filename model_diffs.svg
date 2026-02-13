@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="290.65823mm"
+   height="138.07594mm"
+   viewBox="0 0 290.65823 138.07594"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="model_diffs.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.77415123"
+     inkscape:cx="397.20921"
+     inkscape:cy="322.28845"
+     inkscape:window-width="1904"
+     inkscape:window-height="1040"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-104.24051)">
+    <rect
+       style="fill:#ffffff;stroke:#000080;stroke-width:1.32292;stroke-miterlimit:2"
+       id="rect1"
+       width="57.417721"
+       height="24.265821"
+       x="22.556959"
+       y="158.24049"
+       ry="9.0678902" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:1.32292;stroke-miterlimit:2"
+       x="52.400928"
+       y="172.93671"
+       id="text1"><tspan
+         sodipodi:role="line"
+         style="font-size:8.46667px;stroke-width:1.32292"
+         x="52.400928"
+         y="172.93671"
+         id="tspan2">Architecture</tspan></text>
+    <ellipse
+       style="fill:#ffffff;stroke:#008080;stroke-width:1.32292;stroke-miterlimit:2"
+       id="path4"
+       cx="158.69485"
+       cy="149.48628"
+       rx="26.40163"
+       ry="12.303797" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:1.32292;stroke-miterlimit:2;marker-end:url(#ConcaveTriangle)"
+       d="M 80.658227,170.20254 124.03098,154.10781"
+       id="path5"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:1.32292;stroke-miterlimit:2;marker-end:url(#ConcaveTriangle)"
+       d="m 81.165361,170.04983 44.398069,18.48713"
+       id="path6"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:1.32292;stroke-miterlimit:2"
+       x="96.147758"
+       y="146.62024"
+       id="text6"><tspan
+         sodipodi:role="line"
+         style="font-size:8.46667px;stroke-width:1.32292"
+         x="96.147758"
+         y="146.62024"
+         id="tspan6">hyperparameters</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:1.32292;stroke-miterlimit:2"
+       x="158.00853"
+       y="152.77216"
+       id="text7"><tspan
+         sodipodi:role="line"
+         style="font-size:8.46667px;stroke-width:1.32292"
+         x="158.00853"
+         y="152.77216"
+         id="tspan7">MachineA</tspan></text>
+    <ellipse
+       style="fill:#ffffff;stroke:#008080;stroke-width:1.32292;stroke-miterlimit:2"
+       id="ellipse7"
+       cx="158.69485"
+       cy="193.23311"
+       rx="26.40163"
+       ry="12.303797" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:1.32292;stroke-miterlimit:2"
+       x="158.00853"
+       y="196.51898"
+       id="text8"><tspan
+         sodipodi:role="line"
+         style="font-size:8.46667px;stroke-width:1.32292"
+         x="158.00853"
+         y="196.51898"
+         id="tspan8">MachineB</tspan></text>
+    <path
+       style="fill:none;stroke:#808080;stroke-width:1.32292;stroke-miterlimit:2;marker-end:url(#ConcaveTriangle)"
+       d="m 185.31073,144.75014 18.37962,-14.64785"
+       id="path8"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:1.32292;stroke-miterlimit:2;marker-end:url(#ConcaveTriangle)"
+       d="m 186.20296,149.94726 23.24115,-3.4956"
+       id="path9"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:1.32292;stroke-miterlimit:2;marker-end:url(#ConcaveTriangle)"
+       d="m 186.6788,153.65638 21.87521,8.59329"
+       id="path10"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:1.32292;stroke-miterlimit:2;marker-end:url(#ConcaveTriangle)"
+       d="m 189.25687,190.68545 23.47756,-1.08337"
+       id="path11"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:1.32292;stroke-miterlimit:2;marker-end:url(#ConcaveTriangle)"
+       d="m 188.33805,195.8574 21.86751,8.6129"
+       id="path12"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:1.32292;stroke-miterlimit:2;marker-end:url(#ConcaveTriangle)"
+       d="m 186.00943,200.35658 16.99621,16.23263"
+       id="path13"
+       sodipodi:nodetypes="cc" />
+    <ellipse
+       style="fill:none;stroke:#ff7f2a;stroke-width:1.32292;stroke-miterlimit:2"
+       id="path14"
+       cx="233.77214"
+       cy="119.62027"
+       rx="17.43038"
+       ry="9.5696201" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:none;stroke-width:1.32292;stroke-miterlimit:2"
+       x="219.07594"
+       y="123.03798"
+       id="text14"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         style="fill:#000000;stroke:none;stroke-width:1.32292"
+         x="219.07594"
+         y="123.03798">model1</tspan></text>
+    <ellipse
+       style="fill:none;stroke:#ff7f2a;stroke-width:1.32292;stroke-miterlimit:2"
+       id="ellipse14"
+       cx="240.60759"
+       cy="145.76584"
+       rx="18.113924"
+       ry="8.7151899" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:none;stroke-width:1.32292;stroke-miterlimit:2"
+       x="225.22784"
+       y="148.32912"
+       id="text15"><tspan
+         sodipodi:role="line"
+         id="tspan15"
+         style="fill:#000000;stroke:none;stroke-width:1.32292"
+         x="225.22784"
+         y="148.32912">model2</tspan></text>
+  </g>
+</svg>
