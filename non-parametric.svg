@@ -25,14 +25,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.77415123"
-     inkscape:cx="1039.2026"
-     inkscape:cy="211.19904"
-     inkscape:window-width="2384"
-     inkscape:window-height="1310"
+     inkscape:cx="1038.5568"
+     inkscape:cy="676.22446"
+     inkscape:window-width="1904"
+     inkscape:window-height="1040"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="layer4">
     <inkscape:page
        x="0"
        y="0"
@@ -49,7 +49,7 @@
        id="page169"
        margin="0"
        bleed="0"
-       inkscape:export-filename="knn_3.png"
+       inkscape:export-filename="knn_6.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <inkscape:page
@@ -100,7 +100,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(8.2167598,36.894423)"
-     style="display:inline">
+     style="display:none">
     <circle
        style="fill:#ff8080;stroke:none;stroke-width:1.32292;stroke-miterlimit:2"
        id="path19"
@@ -2729,7 +2729,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Layer 4"
-     style="display:none">
+     style="display:inline">
     <ellipse
        style="fill:none;fill-opacity:1;stroke:#00ccff;stroke-width:1.33568;stroke-miterlimit:2"
        id="path228"
@@ -2754,6 +2754,30 @@
        rx="19.553431"
        cy="-137.07469"
        cx="285.21841" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#00ccff;stroke-width:1.33568;stroke-miterlimit:2"
+       id="ellipse1"
+       transform="matrix(0.70534254,0.70886663,-0.83228649,0.55434574,0,0)"
+       ry="22.588507"
+       rx="9.5030441"
+       cy="112.06475"
+       cx="226.23582" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#00ccff;stroke-width:1.33568;stroke-miterlimit:2"
+       id="ellipse2"
+       transform="matrix(0.70534254,0.70886663,-0.83228649,0.55434574,0,0)"
+       ry="22.588507"
+       rx="19.553431"
+       cy="111.65816"
+       cx="289.23184" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#00ccff;stroke-width:1.33568;stroke-miterlimit:2"
+       id="ellipse3"
+       transform="matrix(0.19523591,0.98075631,-0.99999932,0.00116839,0,0)"
+       ry="22.588507"
+       rx="19.553431"
+       cy="-5.3852863"
+       cx="284.01608" />
   </g>
   <g
      inkscape:groupmode="layer"
